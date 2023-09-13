@@ -1,0 +1,14 @@
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\bin\Debug\net6.0\HRManagementTool.exe
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\bin\Debug\net6.0\HRManagementTool.deps.json
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\bin\Debug\net6.0\HRManagementTool.runtimeconfig.json
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\bin\Debug\net6.0\HRManagementTool.dll
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\bin\Debug\net6.0\HRManagementTool.pdb
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.AssemblyInfoInputs.cache
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.AssemblyInfo.cs
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.csproj.CoreCompileInputs.cache
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.dll
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\refint\HRManagementTool.dll
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.pdb
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\HRManagementTool.genruntimeconfig.cache
+D:\DOTNET\MyProjects\HRManagementTool\HRManagementTool\obj\Debug\net6.0\ref\HRManagementTool.dll
