@@ -450,8 +450,19 @@ namespace HRManagementTool
         {
             Console.WriteLine("Enter number of hours worked");
             int noOfHoursWorked = int.Parse(Console.ReadLine());
-            employee.PerformWork(noOfHoursWorked);
-            employees[employees.IndexOf(employee)].NoOfHoursWorked = employee.NoOfHoursWorked;
+
+            string email = employee.Email;
+            Employee employeeFromList = new Employee();
+            foreach (Employee emp in employees)
+            {
+                    if(emp.Email == email)
+                    {
+                        employeeFromList = emp;
+                    }
+            }
+
+            employeeFromList.PerformWork(noOfHoursWorked);
+            employees[employees.IndexOf(employeeFromList)].NoOfHoursWorked = employeeFromList.NoOfHoursWorked;
             MenuUtilities.SaveData();
             MenuUtilities.LoadData();
 
